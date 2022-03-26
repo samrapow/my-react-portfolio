@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.fa364624.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.32db48df.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.32db48df.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
-    "static/css/2.8d01ebf6.chunk.css": "/React-Portfolio/static/css/2.8d01ebf6.chunk.css",
-    "static/js/2.99e62d0a.chunk.js": "/React-Portfolio/static/js/2.99e62d0a.chunk.js",
-    "static/js/2.99e62d0a.chunk.js.map": "/React-Portfolio/static/js/2.99e62d0a.chunk.js.map",
-    "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.f30d0d2dac79d5c42fc6207a5d961fa3.js": "/React-Portfolio/precache-manifest.f30d0d2dac79d5c42fc6207a5d961fa3.js",
-    "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/2.8d01ebf6.chunk.css.map": "/React-Portfolio/static/css/2.8d01ebf6.chunk.css.map",
-    "static/css/main.fa364624.chunk.css.map": "/React-Portfolio/static/css/main.fa364624.chunk.css.map",
-    "static/js/2.99e62d0a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.99e62d0a.chunk.js.LICENSE.txt",
-    "static/media/Sam_Rapowitz_Resume_3_19_22.pdf": "/React-Portfolio/static/media/Sam_Rapowitz_Resume_3_19_22.e268d33b.pdf",
-    "static/media/mdb.css": "/React-Portfolio/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/React-Portfolio/static/media/fa-solid-900.d824df7e.woff2"
+    "main.css": "/my-react-portfolio/static/css/main.fa364624.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.801c43e0.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.801c43e0.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.bdbff3dd.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.bdbff3dd.js.map",
+    "static/css/2.25a62686.chunk.css": "/my-react-portfolio/static/css/2.25a62686.chunk.css",
+    "static/js/2.439c244b.chunk.js": "/my-react-portfolio/static/js/2.439c244b.chunk.js",
+    "static/js/2.439c244b.chunk.js.map": "/my-react-portfolio/static/js/2.439c244b.chunk.js.map",
+    "index.html": "/my-react-portfolio/index.html",
+    "precache-manifest.184ffc1da6c5d6411bd5edbc1509a148.js": "/my-react-portfolio/precache-manifest.184ffc1da6c5d6411bd5edbc1509a148.js",
+    "service-worker.js": "/my-react-portfolio/service-worker.js",
+    "static/css/2.25a62686.chunk.css.map": "/my-react-portfolio/static/css/2.25a62686.chunk.css.map",
+    "static/css/main.fa364624.chunk.css.map": "/my-react-portfolio/static/css/main.fa364624.chunk.css.map",
+    "static/js/2.439c244b.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.439c244b.chunk.js.LICENSE.txt",
+    "static/media/Sam_Rapowitz_Resume_3_19_22.pdf": "/my-react-portfolio/static/media/Sam_Rapowitz_Resume_3_19_22.e268d33b.pdf",
+    "static/media/mdb.css": "/my-react-portfolio/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/my-react-portfolio/static/media/fa-solid-900.d824df7e.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.27e0f504.js",
-    "static/css/2.8d01ebf6.chunk.css",
-    "static/js/2.99e62d0a.chunk.js",
+    "static/js/runtime-main.bdbff3dd.js",
+    "static/css/2.25a62686.chunk.css",
+    "static/js/2.439c244b.chunk.js",
     "static/css/main.fa364624.chunk.css",
-    "static/js/main.32db48df.chunk.js"
+    "static/js/main.801c43e0.chunk.js"
   ]
 }
