@@ -1,6 +1,6 @@
 {
-  "homepage": "https://collin-hodgson.github.io/React-Portfolio",
-  "name": "reactportfolio",
+  "homepage": ".",
+  "name": "my-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
