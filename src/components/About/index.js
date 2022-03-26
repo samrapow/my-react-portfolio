@@ -10,7 +10,7 @@ const AboutMe = () => {
           <hr class="solid bg-dark" />
           <img
             style={{ height: "285px" }}
-            src="../../assets/sam_photo.jpg"
+            src="https://media-exp1.licdn.com/dms/image/C4E03AQFkiI-vld7MDA/profile-displayphoto-shrink_400_400/0/1602864394447?e=1653523200&v=beta&t=nXhGCFGfPeiYV8T6iNVFG3QnOHT94RUqCQbNBNCG-H8"
             class="float-left pr-4 pb-3 img-fluid"
             alt="Sam Rapowitz"
           />
