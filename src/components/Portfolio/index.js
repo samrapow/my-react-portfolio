@@ -16,7 +16,7 @@ const Projects = () => {
       <MDBCardGroup deck className="mt-3">
         <MDBCard className="border border-dark">
           <MDBCardImage
-            style={{ width: "485px" }}
+            style={{ height: "283px" }}
             src="https://media.istockphoto.com/photos/abstract-blockchain-technology-futuristic-pixel-grid-pattern-big-picture-id1331078503?b=1&k=20&m=1331078503&s=170667a&w=0&h=R_pI3Vrld52CVbcTvX3g-8enU8udDVaR6T06Sr720jc="
             alt="crossword-puzzle"
             top
@@ -36,8 +36,9 @@ const Projects = () => {
 
         <MDBCard className="border border-dark">
           <MDBCardImage
+            style={{ height: "283px" }}
             className="img-fluid"
-            src="https://media.istockphoto.com/photos/close-up-woman-hand-hold-using-smart-phone-with-heart-icon-at-outdoor-picture-id1340024049?b=1&k=20&m=1340024049&s=170667a&w=0&h=u2OlZdzn-88Q5qv3Z757JFv9HJ4gw5DiSccxgEJGaqk="
+            src="https://media.istockphoto.com/photos/lets-spend-the-rest-of-our-lives-together-picture-id1306892498?b=1&k=20&m=1306892498&s=170667a&w=0&h=BoLgQ5ArahljZH4aLH3h0lGH0M7ultmK93YPrhDRmA8="
             alt="date-match"
             top
           />
@@ -78,6 +79,7 @@ const Projects = () => {
       <MDBCardGroup deck className="mt-3">
         <MDBCard className="border border-dark">
           <MDBCardImage
+            style={{ height: "283px" }}
             className="img-fluid"
             src="https://media.istockphoto.com/photos/cyber-security-web-development-and-work-in-it-concept-picture-id1289411982?b=1&k=20&m=1289411982&s=170667a&w=0&h=0R3OXR4L6LOGphYA3sul4bWQwpGj_DSl05ENiP2kRZg="
             alt="code"
@@ -98,7 +100,7 @@ const Projects = () => {
 
         <MDBCard className="border border-dark">
           <MDBCardImage
-            style={{ height: "225px" }}
+            style={{ height: "283px" }}
             className="img-fluid"
             src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c21hbGwlMjBidXNpbmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
             alt="small-business"
@@ -119,7 +121,7 @@ const Projects = () => {
 
         <MDBCard className="border border-dark">
           <MDBCardImage
-            style={{ height: "225px" }}
+            style={{ height: "283px" }}
             className="img-fluid"
             src="https://images.unsplash.com/photo-1535303311164-664fc9ec6532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c29jaWFsJTIwbWVkaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
             alt="iPhone"

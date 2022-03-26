@@ -17,7 +17,7 @@ function Navbar() {
       style={{ width: "100%" }}
     >
       <MDBNavbarBrand>
-        <strong className="white-text">Collin P. Hodgson</strong>
+        <strong className="white-text">Sam Rapowitz</strong>
       </MDBNavbarBrand>
       <MDBNavbarNav right>
         <MDBNavItem>
