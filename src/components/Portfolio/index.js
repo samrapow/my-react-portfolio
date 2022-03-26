@@ -8,7 +8,6 @@ import {
   MDBCardBody,
   MDBCardImage,
   MDBCardTitle,
-  MDBCardText,
 } from "mdbreact";
 
 const Projects = () => {
