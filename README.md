@@ -10,7 +10,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Deployed App
 
-[Heroku App](https://samrapow.github.io/my-react-portfolio/)
+[Github Pages](https://samrapow.github.io/my-react-portfolio/)
 
 ## GitHub Repository
 
