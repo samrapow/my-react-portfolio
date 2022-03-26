@@ -11,7 +11,7 @@ import {
 function Navbar() {
   return (
     <MDBNavbar
-      color="special-color-dark"
+      color="unique-color"
       dark
       expand="md"
       style={{ width: "100%" }}
