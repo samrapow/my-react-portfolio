@@ -15,7 +15,7 @@ const AboutMe = () => {
             alt="Sam Rapowitz"
           />
           <p style={{ fontSize: "27px" }}>
-          Sam has spent the past two years as a Product Manager in Capital One’s innovation lab, where he shipped a new customer authentication tool and has spearheaded various efforts around crypto, gamified credit card rewards, and how Capital One can participate in the payments landscape of the emerging Metaverse. Previously, he worked as a PM for Clutch, an auto tech startup (aquired by Cox Automotive), and graduated from Yale.
+          Sam has spent the past 2.5 years as a Product Manager in Capital One’s innovation lab, where he shipped a new customer authentication tool and has spearheaded various efforts around crypto, gamified credit card rewards, and how Capital One can participate in the payments landscape of the emerging Metaverse. Previously, he worked as a PM for Clutch, an auto tech startup (aquired by Cox Automotive), and graduated from Yale.
 
           </p>
           <p style={{ fontSize: "27px" }}>
