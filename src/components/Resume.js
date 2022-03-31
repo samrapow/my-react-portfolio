@@ -1,6 +1,6 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
-import Resume from "../assets/Sam_Rapowitz_Resume_3_19_22.pdf";
+import Resume from "../assets/Sam_Rapowitz_Resume_3_29_22.pdf";
 
 const AboutMe = () => {
   return (
